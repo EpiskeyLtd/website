@@ -1,0 +1,48 @@
+body {
+	font-family: 'Poiret One';
+	background-color: #F2F2C4;
+}
+
+h4 {
+	font-family: 'Poiret One';
+	font-size: 100px;
+	margin-top: 15%;
+	padding-bottom: 0px;
+}
+
+div {
+	text-align: center;
+}
+
+#menu {
+	font-size: 40px;
+	
+	}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	border: 0px;
+	border-bottom-width: 1px;
+	border-style: solid;
+	}
+	
+#contact_box, #details_box, #work_box{
+	font-size: 30px;
+	padding-top: 15px;
+	border: 0px;
+	border-top-width: 1px;
+	border-style: solid;
+	
+}
+
+ul
+{
+    list-style-type: none;
+    text-align: left;
+}
+
