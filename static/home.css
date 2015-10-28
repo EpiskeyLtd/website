@@ -1,6 +1,6 @@
 body {
 	font-family: 'Poiret One';
-	background-color: #F2F2C4;
+	background: #FFDFCA;
 }
 
 h4 {
@@ -24,14 +24,23 @@ a {
 	text-decoration: none;
 }
 
+a.text-link {
+    border-bottom: 1px solid;
+}
+
 a:hover {
 	color: black;
 	border: 0px;
 	border-bottom-width: 1px;
 	border-style: solid;
 	}
+
+a.text-link:hover {
+    color: white;
+    border: 0px;
+}
 	
-#contact_box, #details_box, #work_box{
+#contact_box, #details_box, #work_box, #staff_box{
 	font-size: 30px;
 	padding-top: 15px;
 	border: 0px;
